@@ -1,0 +1,149 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C4B1-774F
+
+ Directory of C:\Users\fba\PreventCrowding
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09                 0 dummy.txt
+01/10/2021  17:09                45 README.md
+               2 File(s)             45 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git
+
+01/10/2021  17:09               321 config
+01/10/2021  17:09                73 description
+01/10/2021  17:09                23 HEAD
+01/10/2021  17:09    <DIR>          hooks
+01/10/2021  17:09               137 index
+01/10/2021  17:09    <DIR>          info
+01/10/2021  17:09    <DIR>          logs
+01/10/2021  17:09    <DIR>          objects
+01/10/2021  17:09               114 packed-refs
+01/10/2021  17:09    <DIR>          refs
+               5 File(s)            668 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\hooks
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09               478 applypatch-msg.sample
+01/10/2021  17:09               896 commit-msg.sample
+01/10/2021  17:09             4ÿ655 fsmonitor-watchman.sample
+01/10/2021  17:09               189 post-update.sample
+01/10/2021  17:09               424 pre-applypatch.sample
+01/10/2021  17:09             1ÿ643 pre-commit.sample
+01/10/2021  17:09               416 pre-merge-commit.sample
+01/10/2021  17:09             1ÿ374 pre-push.sample
+01/10/2021  17:09             4ÿ898 pre-rebase.sample
+01/10/2021  17:09               544 pre-receive.sample
+01/10/2021  17:09             1ÿ492 prepare-commit-msg.sample
+01/10/2021  17:09             2ÿ783 push-to-checkout.sample
+01/10/2021  17:09             3ÿ650 update.sample
+              13 File(s)         23ÿ442 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\info
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\logs
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09               226 HEAD
+01/10/2021  17:09    <DIR>          refs
+               1 File(s)            226 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\logs\refs
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09    <DIR>          heads
+01/10/2021  17:09    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\logs\refs\heads
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09               226 master
+               1 File(s)            226 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\logs\refs\remotes
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\logs\refs\remotes\origin
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09               226 HEAD
+               1 File(s)            226 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\objects
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09    <DIR>          info
+01/10/2021  17:09    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\objects\info
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\objects\pack
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09             1ÿ156 pack-2c7f3392103de35331cdb2bda112ca4de5988c9a.idx
+01/10/2021  17:09               637 pack-2c7f3392103de35331cdb2bda112ca4de5988c9a.pack
+               2 File(s)          1ÿ793 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\refs
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09    <DIR>          heads
+01/10/2021  17:09    <DIR>          remotes
+01/10/2021  17:09    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\refs\heads
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09                41 master
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\refs\remotes
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\refs\remotes\origin
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+01/10/2021  17:09                32 HEAD
+               1 File(s)             32 bytes
+
+ Directory of C:\Users\fba\PreventCrowding\.git\refs\tags
+
+01/10/2021  17:09    <DIR>          .
+01/10/2021  17:09    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              28 File(s)         26ÿ939 bytes
+              47 Dir(s)  242ÿ824ÿ220ÿ672 bytes free
